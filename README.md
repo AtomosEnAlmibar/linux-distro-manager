@@ -1,2 +1,2 @@
 # linux-distro-manager
-Manager of Kinux distros and versions
+Manager of Linux distros and versions
